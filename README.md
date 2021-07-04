@@ -1,15 +1,34 @@
-# Getting Started with Create React App
+# Find Your Bank React App
+#### A simple react app the extracts results from an API endpoint and displays them on to a table with individual pages for banks and different filters to find specific data
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+
+
+## Deployments
+
+The app has been deployed using GitHub Pages - [Deployed App](https://soumallyadev07.github.io/Groww-Assignment-Web/)
+
+
+## Screenshots
+
+![alt text](https://i.ibb.co/cb3fKgP/Screenshot-471.png)
+![alt text](https://i.ibb.co/17DxR3d/Screenshot-472.png)
+![alt text](https://i.ibb.co/m8DMqP6/Screenshot-473.png)
+![alt text](https://i.ibb.co/DRxngMG/Screenshot-474.png)
 
 ## Available Scripts
 
 In the project directory, you can run:
 
+### `npm install`
+
+This command installs a package and any packages that it depends on. If the package has a package-lock, or an npm shrinkwrap file, or a yarn lock file, the installation of dependencies will be driven by that.
+
+
 ### `npm start`
 
 Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+Open [http://localhost:3000/Groww-Assignment-Web](http://localhost:3000/Groww-Assignment-Web) to view it in the browser.
 
 The page will reload if you make edits.\
 You will also see any lint errors in the console.
