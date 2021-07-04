@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Groww-Assignment-Web/static/css/main.afd7172b.chunk.css",
+    "main.js": "/Groww-Assignment-Web/static/js/main.b0bd5153.chunk.js",
+    "main.js.map": "/Groww-Assignment-Web/static/js/main.b0bd5153.chunk.js.map",
+    "runtime-main.js": "/Groww-Assignment-Web/static/js/runtime-main.92fea3e0.js",
+    "runtime-main.js.map": "/Groww-Assignment-Web/static/js/runtime-main.92fea3e0.js.map",
+    "static/js/2.bb566053.chunk.js": "/Groww-Assignment-Web/static/js/2.bb566053.chunk.js",
+    "static/js/2.bb566053.chunk.js.map": "/Groww-Assignment-Web/static/js/2.bb566053.chunk.js.map",
+    "index.html": "/Groww-Assignment-Web/index.html",
+    "static/css/main.afd7172b.chunk.css.map": "/Groww-Assignment-Web/static/css/main.afd7172b.chunk.css.map",
+    "static/js/2.bb566053.chunk.js.LICENSE.txt": "/Groww-Assignment-Web/static/js/2.bb566053.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.92fea3e0.js",
+    "static/js/2.bb566053.chunk.js",
+    "static/css/main.afd7172b.chunk.css",
+    "static/js/main.b0bd5153.chunk.js"
+  ]
+}
