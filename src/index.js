@@ -5,7 +5,7 @@ import {BrowserRouter} from 'react-router-dom';
 
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter basename="/Groww-Assignment-Web">
       <App />
     </BrowserRouter>
   </React.StrictMode>,
